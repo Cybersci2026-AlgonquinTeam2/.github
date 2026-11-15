@@ -6,10 +6,10 @@ We are an Algonquin student team preparing for CyberSci 2026 through hands-on pr
 
 | Repository | Purpose | Access |
 |---|---|---|
-| [cybersci2026](https://github.com/Cybersci2026-AlgonquinTeam2/cybersci2026) | Preparation curriculum, labs, study trackers and references | Public |
+| [cybersci2026-preparation](https://github.com/Cybersci2026-AlgonquinTeam2/cybersci2026-preparation) | Preparation curriculum, labs, study trackers and references | Public |
 | [competition-day-2026](https://github.com/Cybersci2026-AlgonquinTeam2/competition-day-2026) | Challenge coordination, handoffs and private event notes | Team members |
 
-Start with the [practice guide](https://github.com/Cybersci2026-AlgonquinTeam2/cybersci2026/tree/main/practice-resources) and [competition preparation checklist](https://github.com/Cybersci2026-AlgonquinTeam2/cybersci2026/tree/main/competition-day).
+Start with the [practice guide](https://github.com/Cybersci2026-AlgonquinTeam2/cybersci2026-preparation/tree/main/practice-resources) and [competition preparation checklist](https://github.com/Cybersci2026-AlgonquinTeam2/cybersci2026-preparation/tree/main/competition-day).
 
 The [official CyberSci site](https://cybersci.ca/) lists the regional event for November 21, 2026. Confirm venue details and current rules with your school and organizers.
 
